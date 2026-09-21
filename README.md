@@ -1,6 +1,6 @@
-# AdverPaint
+# AdverPaint: Inpainting-Based Adversarial Attack on Face Recognition Systems
 
-Minimal, standalone inference code for the supplied **AdverPaint** checkpoint. It processes every supported image in one directory using one binary mask.
+Official implementation of **AdverPaint: Inpainting-Based Adversarial Attack on Face Recognition Systems**.
 
 ## Requirements
 

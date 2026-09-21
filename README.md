@@ -1,4 +1,4 @@
-# AdverPaint Inference
+# AdverPaint
 
 Minimal, standalone inference code for the supplied **AdverPaint** checkpoint. It processes every supported image in one directory using one binary mask.
 

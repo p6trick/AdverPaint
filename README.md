@@ -29,7 +29,7 @@ Images and the mask are resized to 512 × 512 by default. The output is therefor
 The Google Drive folder also includes `mask.png` and `example.jpg`, so the following directory layout can be used for a quick test:
 
 ```
-six/
+AdverPaint/
 ├── checkpoints/G0100000.pt
 ├── input/example.jpg
 └── mask.png

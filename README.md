@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## AdverPaint checkpoint
 
-Download `G0100000.pt` from **[Google Drive — model, mask, and example image](https://drive.google.com/drive/folders/1z4pT3xSWvsfmtiSl4D61rSos2EJIzu8C?usp=sharing)** and place it at `checkpoints/G0100000.pt`.
+Download `G0100000.pt` from **[Google Drive — model, mask, and example image](https://drive.google.com/drive/folders/1z4pT3xSWvsfmtiSl4D61rSos2EJIzu8C?usp=sharing)** and place it at `checkpoints/G0450000.pt`.
 
 The checkpoint is intentionally excluded from Git because it is large.
 

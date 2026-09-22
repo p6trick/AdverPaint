@@ -22,7 +22,7 @@ The checkpoint is intentionally excluded from Git because it is large.
 ## Input format
 
 - `input/`: input images (`jpg`, `jpeg`, `png`, `bmp`, or `webp`)
-- `mask.png`: a grayscale or RGB mask. **White pixels indicate the region to inpaint**; black pixels are preserved.
+- `mask.png`: a grayscale or RGB mask.
 
 Images and the mask are resized to 512 × 512 by default. The output is therefore 512 × 512.
 

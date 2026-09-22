@@ -10,7 +10,11 @@ AdverPaint jointly performs image inpainting and adversarial perturbation inject
 Optional: place an overview figure at assets/overview.png and uncomment below.
 -->
 <p align="center">
-  <img src="assets/overview.png" width="850" alt="AdverPaint overview">
+  <img src="assets/fig_1.png" width="850" alt="AdverPaint overview">
+</p>
+
+<p align="center">
+  <img src="assets/fig_2.png" width="850" alt="AdverPaint overview">
 </p>
 
 
@@ -106,7 +110,7 @@ Images and masks are resized to **512 × 512** by default, and the generated out
 
 | Input | Mask |
 |:---:|:---:|
-| <img src="assets/input.png" width="220"> | <img src="assets/mask.png" width="220"> |
+| <img src="assets/input.jpg" width="220"> | <img src="assets/mask.png" width="220"> |
 
 ---
 

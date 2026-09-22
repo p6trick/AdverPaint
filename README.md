@@ -58,13 +58,3 @@ python inference.py \
 ```
 
 The program automatically uses CUDA when available. Use `--device cpu` to force CPU, or `--device cuda:0` to select a particular GPU.
-
-## Repository contents
-
-```
-AdverPaint/
-├── inference.py       # command-line inference program
-├── model.py           # generator architecture used by the AdverPaint checkpoint
-├── requirements.txt   # minimal Python dependencies
-└── .gitignore         # prevents weights and generated images from being committed
-```

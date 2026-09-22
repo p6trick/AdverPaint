@@ -10,11 +10,11 @@ AdverPaint jointly performs image inpainting and adversarial perturbation inject
 Optional: place an overview figure at assets/overview.png and uncomment below.
 -->
 <p align="center">
-  <img src="assets/fig_1.png" width="850" alt="AdverPaint overview">
+  <img src="assets/fig_1.png" width="850" alt="AdverPaint overview 1">
 </p>
 
 <p align="center">
-  <img src="assets/fig_2.png" width="850" alt="AdverPaint overview">
+  <img src="assets/fig_2.png" width="850" alt="AdverPaint overview 2">
 </p>
 
 

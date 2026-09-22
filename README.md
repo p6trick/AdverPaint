@@ -17,12 +17,11 @@ pip install -r requirements.txt
 
 Download `G0450000.pt` from **[Google Drive — model, mask, and example image](https://drive.google.com/drive/folders/1z4pT3xSWvsfmtiSl4D61rSos2EJIzu8C?usp=sharing)** and place it at `checkpoints/G0450000.pt`.
 
-The checkpoint is intentionally excluded from Git because it is large.
 
 ## Input format
 
 - `input/`: input images (`jpg`, `jpeg`, `png`, `bmp`, or `webp`)
-- `mask.png`: a grayscale or RGB mask.
+- `mask.png`: a grayscale mask.
 
 Images and the mask are resized to 512 × 512 by default. The output is therefore 512 × 512.
 
